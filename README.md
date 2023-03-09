@@ -3,7 +3,7 @@
 
 - 🖥 I'm a Software Developer
 - 👨‍🎓 Currently studying Software Developer NVQ Level IV course in NVTI Baddegama.
-- 📧 Contact me : hgrshehanvta@gmail.com
+- 📧 Contact me : hgrshehanvta@gmail.com or hgravindushehan@gmail.com
 - 🪀 Contact me : http://wa.me/+94766784544 
 
 <!--
