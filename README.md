@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="300" src="./developer.svg"/>
+<img align="right" alt="Coding" width="250" src="./developer.svg"/>
 
 
 - 💼 Currently working as a **Full-Stack Developer**
@@ -21,6 +21,7 @@
 - 💬 Ask me about anything tech-related, I'm happy to help!
 - 📫 How to reach me: hgravindushehan@gmail.com
 
+<br/>
 <br/>
 
 ## 🌐 Connect With Me
