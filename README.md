@@ -112,6 +112,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduShehan2001&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduShehan2001&radius=16&theme=github-dark&area=true&order=5&line=660000&title_color=ff0000&color=880000&point=ff0000&area_color=ff0000" height="300" alt="activity-graph graph"  />
+</div> -->
+
 <br/>
 
 ## 🏆 GitHub Trophies
@@ -125,7 +129,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RavinduShehan2001&icon=7&color=10" alt="Visit Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RavinduShehan2001.RavinduShehan2001&"  />
 </div>
 
 <div align="center">
